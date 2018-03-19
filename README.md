@@ -1,5 +1,4 @@
 # Firebrand Innovations
-====================
 
 Website for [Firebrand Innovations](http://firebrandinnovations.com/) and it's first product: [Video Conversation](http://firebrandinnovations.com/videoconversation.htm).
 
