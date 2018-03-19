@@ -1,16 +1,17 @@
-firebrandinnovations
+# Firebrand Innovations
 ====================
 
-Website for Firebrand Innovations, Video Conversation, and Mark Buckler
+Website for [Firebrand Innovations](http://firebrandinnovations.com/) and it's first product: [Video Conversation](http://firebrandinnovations.com/videoconversation.htm).
 
-# TODO:
+
+## TODO:
 - Responsive support
 - Contact form
 - Fix Scaffolding (ex: recognition)
 - Fix URLs (ex: *.htm)
 - Add images
 
-# Special Thanks
+## Special Thanks
 Special thanks to:
 
 ### [Arctic Scroll](https://github.com/PaulAdamDavis/Arctic-Scroll)
